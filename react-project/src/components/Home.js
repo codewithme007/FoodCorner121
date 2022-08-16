@@ -29,5 +29,4 @@ class Home extends Component {
     }
 }
 //This change for testing from github directly
-// second commit for testing
 export default Home;
