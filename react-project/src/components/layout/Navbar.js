@@ -61,7 +61,7 @@ class Navbar extends Component {
                 </div>
         )
     }
-}
+}//try
 
 export default Navbar
 
