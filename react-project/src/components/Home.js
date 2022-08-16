@@ -30,10 +30,5 @@ class Home extends Component {
 }
 //This change for testing from github directly
 // scond comment to git learn
-<<<<<<< HEAD
-//git learn
-=======
-// third commit for git
-//four commit
->>>>>>> a00ab06e78085360827ec2931c9399df2c682b78
+
 export default Home;
